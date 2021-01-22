@@ -1,4 +1,4 @@
-Hosted @ https://ghoulfriend.github.io/color/
+Hosted @ https://mou-security.github.io/color/
 
 Javascript game tutorial
 RGB guess game
